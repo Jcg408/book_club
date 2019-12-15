@@ -1,24 +1,11 @@
-# README
+# BOOK CLUB 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This application focuses on the use of Test Driven Development in the building of a Rails Application.
+Rspec is used to write the tests. 
 
-Things you may want to cover:
+The application will be for a Book Club which will have users who can write reviews and have a rating system.
 
-* Ruby version
+* Work in progress.
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Ruby version - 2.6.5
